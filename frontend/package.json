@@ -1,4 +1,4 @@
-﻿{
+{
   "name": "teslo-shop",
   "version": "0.0.0",
   "scripts": {
@@ -9,7 +9,6 @@
     "test": "ng test"
   },
   "private": true,
-  "packageManager": "yarn@1.22.22",
   "dependencies": {
     "@angular/common": "^22.1.0",
     "@angular/compiler": "^22.1.0",
